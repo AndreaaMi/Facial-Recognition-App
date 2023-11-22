@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15c04c02-95c6-4138-85b0-0eef30f84621" name="Changes" comment="" />
+    <list default="true" id="15c04c02-95c6-4138-85b0-0eef30f84621" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Videos/bikes.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/cars.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/motorbikes.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/people.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/ppe-1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/ppe-2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Videos/ppe-3.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yolo - Webcam/yolo-object-detection-webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yolo - Webcam/yolo-object-detection-webcam.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,6 +168,6 @@
     <SUITE FILE_PATH="coverage/Object_Recognition_App$yolo_object_detection.coverage" NAME="yolo-object-detection Coverage Results" MODIFIED="1700688706925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Object_Recognition_App$main.coverage" NAME="main Coverage Results" MODIFIED="1700678633250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/objectRecognition$main.coverage" NAME="main Coverage Results" MODIFIED="1700676144641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Object_Recognition_App$yolo_object_detection_webcam.coverage" NAME="yolo-object-detection-webcam Coverage Results" MODIFIED="1700690661846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yolo - Webcam" />
+    <SUITE FILE_PATH="coverage/Object_Recognition_App$yolo_object_detection_webcam.coverage" NAME="yolo-object-detection-webcam Coverage Results" MODIFIED="1700694314692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yolo - Webcam" />
   </component>
 </project>
