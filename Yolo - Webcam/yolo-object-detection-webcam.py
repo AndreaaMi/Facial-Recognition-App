@@ -5,6 +5,9 @@ import cvzone #to display detections
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720) #height
+#cap = cv2.VideoCapture("../Videos/bikes.mp4")
+# for video
+
 
 model = YOLO("../Yolo-Weights/yolov8n.pt")
 
